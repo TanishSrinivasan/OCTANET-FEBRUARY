@@ -16,7 +16,7 @@ JavaScript: For interactive elements and dynamic functionalities.
 
 ## 🚀 How to Use
 1. Clone this repository:
-git clone <https://github.com/TanishSrinivasan/PLANTIFY-By-Tanish_Landing-Page.git>  
+git clone https://github.com/TanishSrinivasan/Plantify_By_Tanish.git  
 
 2. Open the index.html file in your web browser.
 
